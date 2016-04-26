@@ -1,0 +1,50 @@
+Seating Plan
+
+TABLE 1 - head table
+1. Ginny
+2. Harry
+3. Molly Weasley
+4. Arthur Weasley
+5. Minerva McGonogall
+6. Rubeus Hagrid
+7. Ron Weasley
+8. Hermione Granger
+9. Luna Lovegood
+10. Rolf Scamander
+
+
+TABLE 2 - Extended Family
+11. Fleur Delacour
+12. Bill Weasley
+13. Charlie Weasley
+14. Percy Weasley
+15. George Weasley
+16. Angelina Johnson
+17. Gabrielle Delacour
+18. 
+19. 
+20.
+
+TABLE 3 - Mutual Friends
+21. Neville Longbootom
+22. Dean Thomas
+23. Justin Finch-Fletchley
+24. Lee Jordan
+25. Parvati Patil
+26. Padma Patil
+27. Katie Bell
+28. Hannah Abbott
+29. 
+30. 
+
+TABLE 4 - Family friends
+31. Aberforth Dumbledore
+32. Arabella Figg
+33. Kingsley Shacklebot
+34. Monica Granger
+35. Graham Granger
+36. Teddy Lupin
+37. Andromeda Tonks
+38.
+39.
+40.
