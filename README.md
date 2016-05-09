@@ -20,7 +20,9 @@ Create one feature branch for each of you - call one Harry and one Ginny
 
 #### Steps:
 At first, work off the "Harry" branch together. In your pairs, decide who will be Ginny and who will be Harry. Then follow the steps below __in order please__:
+
 1. __GINNY__: You've been trying and trying to get Harry to speak to his aunt and uncle again, you realise they made his childhood difficult but they were afraid. They care about him in their own unique way, otherwise they wouldn't have risked their lives to save his, so you add the following names to the "extended family" table: 
+
     * Vernon Dursley 
     * Petunia Dursley 
     * Dudley Dursley 
