@@ -21,7 +21,7 @@ Create one feature branch for each of you - call one Harry and one Ginny
 #### Steps:
 In your pairs, decide who will be Ginny and who will be Harry. Then follow the steps below __in order please__. Each person should be working off their own branch at each stage:
 
-1. __GINNY__: You've been trying and trying to get Harry to speak to his aunt and uncle again, you realise they made his childhood difficult but they were afraid. They care about him in their own unique way, otherwise they wouldn't have risked their lives to save his. Switch to the Ginny branch and open GuestList.txt and add the following names to the "extended family" table: 
+1. __GINNY__: _On the Ginny branch:_ You've been trying and trying to get Harry to speak to his aunt and uncle again, you realise they made his childhood difficult but they were afraid. They care about him in their own unique way, otherwise they wouldn't have risked their lives to save his. Switch to the Ginny branch and open GuestList.txt and add the following names to the "extended family" table:
 
     * Vernon Dursley 
     * Petunia Dursley 
@@ -30,7 +30,7 @@ In your pairs, decide who will be Ginny and who will be Harry. Then follow the s
     add then commit your changes with a message explaining yourself lovingly, then push to your remote feature branch.
     _NB: The feature branch doesn't exist yet. Pushing will automatically create the branch for you, and push your changes_
     Create a pull request to merge to the master branch. This will be your fork.
-2. __HARRY__: Switch to the Harry branch, open GuestList.txt and add a couple of your friends that you'd forgotten last time to the "Mutual Friends" table: 
+2. __HARRY__: _Switch to the Harry branch_, open GuestList.txt and add a couple of your friends that you'd forgotten last time to the "Mutual Friends" table:
     * Cho Chang 
     * Seamus Finnigan 
     
@@ -70,6 +70,7 @@ In your pairs, decide who will be Ginny and who will be Harry. Then follow the s
     * Correct the surname to "Sprout", and commit again. 
     * There's no point having two separate commits in the history - the spelling mistake is minor and shouldn't ever need to be rolled back by itself. Squash both commits with one commit message that demonstrates the purpose of the change. 
     * Raise pull request, get it merged into master.
+
     _NB: by rebasing, you are effectively changing the git history, so in practice only proceed with caution! Here we are fine, as this file has not been used by anybody else yet so changing things won't have horrible results. In general, however, pause before rebasing and make sure it is the right course of action_
     * Check the git log to make sure that there's only one commit. 
 7. __HARRY__: _Switch back to your branch._ Realise that you've written a commit message that is not really adequate - you've basically summarised WHAT you changed, rather than WHY you changed it. This is unnecessary, as mentioned before, since anyone just needs to look at the git history to figure out WHAT change was made.
@@ -82,4 +83,4 @@ In your pairs, decide who will be Ginny and who will be Harry. Then follow the s
     * Invite yourself and the person you're working with to the wedding - choose which table you'd like to sit on :) 
     * Add, commit, push, pull request (you know the drill by now..). 
 9. __BOTH__: Thankfully, this tedious part of your wedding planning is over, and now you can focus on way more enjoyable parts, like cake selection (plus all the free samples that come with it!). Delete your feature branch.
-10. Raise a pull request to merge your fork back into the original master. It probably won't get accepted, no offence - this step is just for completeness :).
+10. __EITHER__: Raise a pull request to merge your fork back into the original master. It probably won't get accepted, no offence - this step is just for completeness :).
