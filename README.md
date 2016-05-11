@@ -72,7 +72,7 @@ In your pairs, decide who will be Ginny and who will be Harry. Then follow the s
     * Raise pull request, get it merged into master.
     _NB: by rebasing, you are effectively changing the git history, so in practice only proceed with caution! Here we are fine, as this file has not been used by anybody else yet so changing things won't have horrible results. In general, however, pause before rebasing and make sure it is the right course of action_
     * Check the git log to make sure that there's only one commit. 
-7. __HARRY__: -Switch back to your branch._ Realise that you've written a commit message that is not really adequate - you've basically summarised WHAT you changed, rather than WHY you changed it. This is unnecessary, as mentioned before, since anyone just needs to look at the git history to figure out WHAT change was made.
+7. __HARRY__: _Switch back to your branch._ Realise that you've written a commit message that is not really adequate - you've basically summarised WHAT you changed, rather than WHY you changed it. This is unnecessary, as mentioned before, since anyone just needs to look at the git history to figure out WHAT change was made.
     * Go back and modify it to better explain the reason for your change. 
     * Raise pull request to merge your change. Ginny got there before you though so you'll have to resolve conflicts first. 
 8. __GINNY__: _Switch to the Ginny branch_ Disaster strikes!
