@@ -82,3 +82,4 @@ In your pairs, decide who will be Ginny and who will be Harry. Then follow the s
     * Invite yourself and the person you're working with to the wedding - choose which table you'd like to sit on :) 
     * Add, commit, push, pull request (you know the drill by now..). 
 9. __BOTH__: Thankfully, this tedious part of your wedding planning is over, and now you can focus on way more enjoyable parts, like cake selection (plus all the free samples that come with it!). Delete your feature branch.
+10. Raise a pull request to merge your fork back into the original master. It probably won't get accepted, no offence - this step is just for completeness :).
