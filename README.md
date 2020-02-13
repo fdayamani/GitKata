@@ -27,10 +27,8 @@ In your pairs, decide who will be Ginny and who will be Harry. Then follow the s
     * Petunia Dursley 
     * Dudley Dursley 
 
-    add then commit your changes with a message explaining yourself lovingly, then push to your remote feature branch. Think hard about your commit message - you want to explain yourself to the man you're spending the rest of your life with, and this commit message is how you're going to do it. Think about what you'd say to him on the phone and put this into your commit message.
-
+    add then commit your changes with a message explaining yourself lovingly, then push to your remote feature branch.
     _NB: The feature branch doesn't exist yet. Pushing will automatically create the branch for you, and push your changes_
-
     Create a pull request to merge to the master branch. This will be your fork.
 2. __HARRY__: _Switch to the Harry branch_, open GuestList.txt and add a couple of your friends that you'd forgotten last time to the "Mutual Friends" table:
     * Cho Chang 
