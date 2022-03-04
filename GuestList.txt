@@ -21,9 +21,9 @@ TABLE 2 - Extended Family
 15. George Weasley
 16. Angelina Johnson
 17. Gabrielle Delacour
-18. 
-19. 
-20.
+18. Vernon Dursley
+19. Petunia Dursley
+20. Dudley Dursley
 
 TABLE 3 - Mutual Friends
 21. Neville Longbottom
