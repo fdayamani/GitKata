@@ -1,8 +1,8 @@
 Seating Plan
 
 TABLE 1 - head table
-1. Ginny
-2. Harry
+1. Karim
+2. Neel
 3. Molly Weasley
 4. Arthur Weasley
 5. Minerva McGonogall
@@ -21,8 +21,8 @@ TABLE 2 - Extended Family
 15. George Weasley
 16. Angelina Johnson
 17. Gabrielle Delacour
-18. 
-19. 
+18. Harry
+19. Ginny
 20.
 
 TABLE 3 - Mutual Friends
